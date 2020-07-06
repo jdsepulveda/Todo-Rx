@@ -1,1 +1,6 @@
-# Todo-Rx
+- Dagger2
+- RxJava
+- Kotlin
+- MVVM
+- Room
+- Navigation
